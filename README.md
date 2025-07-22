@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/apilashbalasingham">LinkedIn</a> •
 <a href="mailto:s.balasingam@hotmail.de">E-Mail</a> •
-<a href="https://github.com/apilashbalasingham">GitHub</a>
+<a href="https://github.com/api-1702">GitHub</a>
 </p>
 
 ---
@@ -65,8 +65,8 @@ Feel free to reach out — I'm always open to new ideas, data projects, and coll
 
 ## 📊 GitHub Stats
 
-![Apilash's GitHub stats](https://github-readme-stats.vercel.app/api?username=apilashbalasingham&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apilashbalasingham&layout=compact)
+![Apilash's GitHub stats](https://github-readme-stats.vercel.app/api?username=api-1702&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=api-1702&layout=compact)
 
 ---
 
