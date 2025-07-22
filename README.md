@@ -69,9 +69,3 @@ Feel free to reach out — I'm always open to new ideas, data projects, and coll
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=api-1702&layout=compact)
 
 ---
-
-## 🧮 Visitor Counter
-
-![Visitor Badge](https://shields.io/badge/dynamic/json?color=003366&label=Visitors&query=value&url=https://api.countapi.xyz/hit/apilashbalasingham/github&style=flat&labelColor=003366)
-
----
