@@ -72,6 +72,6 @@ Feel free to reach out — I'm always open to new ideas, data projects, and coll
 
 ## 🧮 Visitor Counter
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=apilashbalasingham.apilashbalasingham)
+![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/apilashbalasingham&count_bg=%23003266&title_bg=%23003266&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)
 
 ---
