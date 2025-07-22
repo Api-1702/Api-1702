@@ -72,6 +72,6 @@ Feel free to reach out — I'm always open to new ideas, data projects, and coll
 
 ## 🧮 Visitor Counter
 
-![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/apilashbalasingham&count_bg=%23003266&title_bg=%23003266&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)
+![Visitor Badge](https://shields.io/badge/dynamic/json?color=003366&label=Visitors&query=value&url=https://api.countapi.xyz/hit/apilashbalasingham/github&style=flat&labelColor=003366)
 
 ---
